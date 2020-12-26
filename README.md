@@ -1,5 +1,3 @@
-# Project Name: Hath Milao
-
 ## Technologies
 
   - Web Application *(MERN Stack)*
