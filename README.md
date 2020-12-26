@@ -1,10 +1,4 @@
-## Technologies
-
-  - Web Application *(MERN Stack)*
-  - Mobile Application *(React-Native)*
-  - Recommendation Engine *(Nodejs, Express)*
-
-# Introducation
+# Introduction
 Our proposed system is a job and internship portal which is a place where students, industrial
 companies and universities can interact with each other. Students can find jobs and internships easily,
 apply for a particular job, internship and attempt weekly challenges. Companies can post ad for jobs
@@ -17,4 +11,13 @@ case of any mistake they can contact with student and alumni to help them to avo
 mistakes. Companies will also see the profile of students and alumni. Student and alumni will see the
 recommended jobs and internships in their home page. Companies will also see the recommended
 candidate in their home page. Students, alumni, companies and career center have a dashboard in
-which they will be able to see the statistics of different thing
+which they will be able to see the statistics of different thing.
+
+# Screenshots
+![Image1](./screenshots/image.png)
+![Image2](./screenshots/image1.png)
+![Image3](./screenshots/image3.png)
+
+## Author
+
+- **Qaiser Ali Khan** - [Github](https://github.com/qaiseralikhan) - [LinkedIn](https://www.linkedin.com/in/qaiseralikhan/)
